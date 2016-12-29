@@ -6,7 +6,7 @@ php:
   - hhvm
 
 env:
-  - CI_VERSION=3.0.0
+  - CI_VERSION=3.1.0
 
 # install vanilla CI before anything
 before_install:
